@@ -89,14 +89,6 @@ XGBoost	0.54	5472	4138
 
 ⸻
 
-📌 How to Run
-	1.	Clone the repo
-	2.	Open the .ipynb file in Jupyter or VS Code
-	3.	Run cells sequentially
-	4.	(Optional) Tune models using RandomizedSearchCV
-
-⸻
-
 📃 License
 
 This project is for educational and demonstration purposes only.
